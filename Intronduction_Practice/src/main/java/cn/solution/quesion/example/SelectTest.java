@@ -2,7 +2,11 @@ package cn.solution.quesion.example;
 
 import java.util.Arrays;
 import java.util.Random;
-
+/**
+ * 
+ *程序解决选择问题，令k=N/2 参考解决:https://blog.csdn.net/aiwoderenshihu/article/details/70809593
+ *
+ */
 public class SelectTest {
     
 	/**
